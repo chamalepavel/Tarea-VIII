@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin: 50px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
